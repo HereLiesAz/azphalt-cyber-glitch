@@ -1,0 +1,9 @@
+{
+    "name":  "@azphalt/vegas.glitch.cyber",
+    "version":  "1.0.0",
+    "description":  "Uses extreme warp, hueRotate, and staggered offset keyframes to create a digital glitch effect.",
+    "private":  false,
+    "scripts":  {
+                    "build":  "node build.js"
+                }
+}
