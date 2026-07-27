@@ -1,11 +1,13 @@
 {
+  "azphalt": "0.1",
   "id": "com.hereliesaz.azphalt.cyber-glitch",
-  "version": "1.0.0",
   "name": "Cyber Glitch",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "MIT",
+  "compat": ">=0.1",
   "description": "Uses extreme warp, hueRotate, and staggered offset keyframes to create a digital glitch effect.",
-  "files": {
-    "assets/preset.json": "sha256-placeholder"
-  },
+  "author": "HereLiesAz",
   "assets": [
     {
       "type": "motion",
